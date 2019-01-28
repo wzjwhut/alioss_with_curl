@@ -52,3 +52,6 @@ Mkfile.old
 dkms.conf
 .idea/
 target/
+.qmake.stash
+Makefile.Debug
+Makefile.Release
